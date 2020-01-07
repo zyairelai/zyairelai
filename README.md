@@ -1,2 +1,2 @@
 # ZyPortfolio
-My code and pdf version of CV, Resume, etc
+My LaTex code of my CV and Résumé
