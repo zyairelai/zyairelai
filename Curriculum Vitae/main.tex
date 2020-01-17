@@ -2,6 +2,7 @@
 
 % Default font is the helvetica postscript font
 \usepackage{helvet}
+\usepackage{import}
 
 % Increase text height
 \textheight=700pt
@@ -16,73 +17,21 @@
 \\}
 \address{
 \\louiszhenyean@gmail.com
-\\(+60) 19-567 5808
-\\ \\}
-%-------------------------------------------------------------------------------
+\\(+60) 19-567 5808 \\ \\}
+
 \begin{resume}
 %-------------------------------------------------------------------------------
 %	OBJECTIVE SECTION
+\import{./}{1-Objectives.tex}
 %-------------------------------------------------------------------------------
-\section{OBJECTIVE}
-{\sl Pre-Final year B. Tech student at LNMIIT. Inquisitive, hard-working and consistent. Looking for internship opportunities at Microsoft where I can apply my skills and contribute to real-world projects}
-%-------------------------------------------------------------------------------
-%	EXPERIENCE SECTION
-%-------------------------------------------------------------------------------
-\section{EXPERIENCE}
-\textbf{TableCheck Inc., Ginza, Tokyo, Japan 
-\hfill{Sept 2018 - Apr 2019}} \\
-{\sl IT Security Specialist Intern} \vspace{-0.3cm} \\
-    \begin{itemize}
-        \item Achieving and maintaining PCI DSS Compliance
-        \item Automatizing process by writing server scripts
-        \item Progress of PCI DSS Compliance from 35\% to 82\% during position period
-    \end{itemize}
-\textbf{Universiti Teknologi PETRONAS, Malaysia
-\hfill{Jan 2017 - Aug 2017}} \\
-{\sl Research Assistant at High Performance Cloud Computer Centre} \vspace{-0.3cm} \\
-    \begin{itemize}
-        \item Researching on searching algorithm with GPU processing
-        \item Rewrite the searching algorithm using CUDA-C language
-    \end{itemize}
+%	EXPERIENCES SECTION
+\import{./}{2-Experiences.tex}
 %-------------------------------------------------------------------------------
 %	EDUCATION SECTION
-%-------------------------------------------------------------------------------
-\section{EDUCATION}
-\textbf{Universiti Teknologi PETRONAS, Malaysia
-\hfill{May 2016 - Dec 2019}} \\
-{\sl Bachelor (hons) of Information \& Communication Technology} \\
-\hfill CGPA: 3.73/4.00
-
-\textbf{Bilkent University, Ankara, Turkey
-\hfill{Sep 2017 - Jan 2018}} \\
-{\sl Computer Technology \& Information System Department} \\
-\hfill Student Exchange under Erasmus Program
-
-\textbf{Universiti Teknologi PETRONAS, Malaysia 
-\hfill{Mar 2015 - Feb 2016}} \\
-{\sl Foundation in Technology} \\
-\hfill CGPA: 3.87/4.00
-
+\import{./}{3-Education.tex}
 %-------------------------------------------------------------------------------
 %	TECHNICAL SKILLS SECTION
-%-------------------------------------------------------------------------------
-\section{TECHNICAL\\SKILLS}
-\textbf{Front-end : } \quad \quad 
-Visual Basic, HTML/CSS, JavaScript
-\\
-\textbf{Back-end :} \quad \quad \quad 
-C/C++, Python, Java, Bash Scripting, Golang
-\\
-\textbf{Database :} \quad \quad \quad 
-MySQL, Oracle SQL
-\\
-\textbf{Framework :} \quad \quad 
-Flask(Python), TomCat(Java), Hadoop(HDFS), Kubernetes
-\\
-\textbf{Tools :} \quad  \quad \quad \quad \quad 
-Git, Metasploit, Nmap, Nessus, OSSEC/Wazuh
-\\
-\textbf{Interested fields: } Penetration Testing, Blockchain, Infrastructure
+\import{./}{4-Technical.tex}
 %-------------------------------------------------------------------------------
 % Modify the format of each position
 \begin{format}
@@ -91,75 +40,18 @@ Git, Metasploit, Nmap, Nessus, OSSEC/Wazuh
 \body\\
 \end{format}
 %-------------------------------------------------------------------------------
-\section{PROJECTS}
-\employer{UTP FYP}
-\location{}
-\title{\textbf{Academic Project: Final Year Project \hfill August - Nov 2019}}
-\begin{position}
-\end{position}
-\vspace{-1.2cm}
-
-\employer{UTP FYP}
-\location{}
-\title{\textbf{Data Compression \& Data Hiding during Large Data Ingestion}}
-\begin{position}
-A Java based web application which compress data retrieved from MySQL database, then hide the data over an audio file. The output file is known as "stega-audio". The stega-audio is then forwarded to HDFS storage. The stega-audio file is simply an audio file which has no difference from the original audio file. With the specific decryptor, the hidden data in the audio file can be retrieved. \vspace{0.3cm}
-\begin{itemize}
-    \item \textbf{Technology/Tools :} Java, TomCat, MySQL, Hadoop HDFS, HTML
-    \item \textbf{Link for Encryptor :} \url{https://github.com/louiszhenyean/StegaSender}
-    \item \textbf{Link for Dencryptor :} \url{https://github.com/louiszhenyean/StegaRetriever}
-\end{itemize}
-\end{position}
-
-\employer{LNMIIT}
-\location{}
-\title{\textbf{Academic Project: Learning Management App \hfill Sep - Dec 2018}
- }
-\begin{position}
-% \begin{itemize}
-Worked in a 4 person team to develop a desktop based application in Java-Swing. The application provides an interface to streamline the process of content sharing communication between student and faculty.\\
-I was responsible for designing database related to faculty and writing Java code which integrates faculty features like Course creation, Posts, Assignment to the main \\application
-% \end{itemize}
-\begin{itemize}
-\item \textbf{Technology/Tools:} Java, Java-Swing, MySQL 
-\end{itemize}
-% \begin{itemize}
-% \item \textbf{Link :} github.com/Aneesh540/NextSeason
-% \end{itemize}
-\end{position}
-
-
-\section{CERTIFICATION}
-\par
-\normalfont{.}
-\\
-\normalfont{\textbullet{} \textbf{Introduction to Data Science in Python} by University of Michigan on \sl{Coursera} \\ Verify : coursera.org/verify/BDNM92TULS82}
-\\
-\textbullet{} \textbf{Applied Machine Learning in Python} by University of Michigan on \sl{Coursera} \\ Ongoing
-
-
-\section{RELEVANT\\COURSES}
-\par
-
-\normalfont{\textbullet{} Introduction to Data Science }
-\normalfont{ \textbullet{} Artificial Intelligence}
-\normalfont{ \textbullet{} Software Engineering \\}
-\normalfont{\textbullet{} Multimedia Processing and Application   }
-\normalfont{\textbullet{} Computer Graphics\\}
-\normalfont{\textbullet{} Data Structures and Algorithm }
-\normalfont{ \textbullet{} Introduction to Database Management \\}
-\normalfont{\textbullet{} Advanced Programming in Java}
-\normalfont{\textbullet{} Operating System}
-\normalfont{\textbullet{} Computer Networks}
-
-\section{ADDITIONAL ACTIVITIES}
-
-\normalfont{ \textbullet{} Member of Computer Society of India, LNMIIT Chapter \\}
-\normalfont{ \textbullet{} Attended DevFest-GDG Jaipur meetup, 2018 \\}
-\normalfont{\textbullet{} Volunteering experience at WikiToLearn India conference, 2017 \\ }
-
+%	PROJECTS SECTION
+\import{./}{5-Projects.tex}
 %-------------------------------------------------------------------------------
-
-
+%	CERTIFICATION SECTION
+\import{./}{6-Certifications.tex}
+%-------------------------------------------------------------------------------
+%	RELEVANT COURSES SECTION
+\import{./}{7-Courses.tex}
+%-------------------------------------------------------------------------------
+%	ADDITIONAL ACTIVITIES SECTION
+\import{./}{8-Activities.tex}
+%-------------------------------------------------------------------------------
 \end{resume}
 \(\)\end{document}
+%-------------------------------------------------------------------------------

@@ -6,6 +6,7 @@
 
 \usepackage{graphicx}
 \usepackage{enumitem}
+\usepackage{import}
 
 \begin{document}
 \header{}{Lai Zhen Yean}
@@ -16,147 +17,35 @@
 %--------------------------------------------------------------------------
 \begin{aside}
 \includegraphics[width=4cm]{mypicture.png}
-%--------------------------------------------------------------------------
 % Contact 
-%--------------------------------------------------------------------------
-\section{Contact}\vspace{0.15cm}
-\textsc{Whatsapp/Telegram}
-+60 19-567 5808
-\vspace{0.2cm} \textsc{Email}
-louiszhenyean@gmail.com
-\vspace{0.2cm} \textsc{Location}
-Ipoh, Perak, Malaysia.
-%--------------------------------------------------------------------------
+\import{Left/}{L1-Contact.tex}
+
 % Languages 
-%--------------------------------------------------------------------------
-\section{Languages}\vspace{0.15cm}
-Cantonese   \textsc{(Native)}
-Mandarin    \textsc{(Native)}
-English     \textsc{(Technical)}
-Malay       \textsc{(Communication)}
-Japanese    \textsc{(Communication)}
-%--------------------------------------------------------------------------
+\import{Left/}{L2-Languages.tex}
+
 % Programming Languages 
-\section{Programming Languages}\vspace{0.15cm}
-%--------------------------------------------------------------------------
-Python, Java
-Visual Basic, C, C++
-Bash Scripting, Golang
-%--------------------------------------------------------------------------
+\import{Left/}{L3-Programming.tex}
+
 % Technical Skills Experiences 
-\section{Technical Skills Experiences}\vspace{0.15cm}
-%--------------------------------------------------------------------------
-Linux (Debian based)
-MySQL
-TomCat \& Flask
-Hadoop (HDFS)
-Nmap \& Nessus
-Metasploit
-OSSEC/Wazuh
-Kubernetes
-CUDA/GPU
-Latex
-%--------------------------------------------------------------------------
+\import{Left/}{L4-Technical.tex}
+
 % My Links
-%--------------------------------------------------------------------------
-\section{My Links}\vspace{0.15cm}
-\url{https://github.com/louiszhenyean}
-~
-\url{https://www.hackthebox.eu/profile/223593}
+\import{Left/}{L5-Links.tex}
 \end{aside}
 %--------------------------------------------------------------------------
-% Objective SECTION
-%--------------------------------------------------------------------------
-\vspace{0.2cm}
-\section{Objectives}
-\vspace{-0.2cm}
-    \begin{itemize}[noitemsep]
-        \item To apply for a career opportunity in potential organization related to software development or system security related fields that offers the opportunities to develop my personalities, technical, non-technical and soft skills. 
-        \item To gain and to develop my future career with lifelong learning and challenging experiences offered.
-        \item To be part of company which consists of diversities background of people, nationalities, ethnicities and cultures.
-    \end{itemize}
-\textbf{My personal interest in the field are Cyber-Security and Infrastructure}. 
-%--------------------------------------------------------------------------
-% WORK EXPERIENCE SECTION
-%--------------------------------------------------------------------------
-\section{Experience}
-\vspace{-0.3cm}
-\textbf{TableCheck Inc., Ginza, Tokyo, Japan} 
-    \quad \quad \quad \quad \quad \quad \quad \quad \quad 
-    \quad \quad \quad \quad \quad \quad \quad \quad
-\textsc{Sept 2018 - May 2019} \\
-\jobtitle{IT Security Specialist Intern} \vspace{-0.15cm}
-    \begin{itemize}[noitemsep]
-        \item Achieving and maintaining PCI DSS Compliance
-        \item Automatizing process by writing server scripts
-        \item Progress of PCI DSS Compliance from 35\% to 82\% during the position
-    \end{itemize}
-%--------------------------------------------------------------------------
-\textbf{Universiti Teknologi PETRONAS, Tronoh, Perak, Malaysia} 
-    \quad \quad \quad \quad \quad \quad \quad \quad \quad 
-\textsc{Jan 2017 - Aug 2017} \\
-\jobtitle{Research Assistant at High Performance Cloud Computer Centre} \vspace{-0.15cm}
-    \begin{itemize}[noitemsep]
-        \item Researching on searching algorithm with GPU processing
-        \item Rewrite the searching algorithm using CUDA-C language
-    \end{itemize}
-%--------------------------------------------------------------------------
+% Objectives SECTION
+\import{Right/}{R1-Objectives.tex}
+
+% WORKING EXPERIENCE SECTION
+\import{Right/}{R2-Experiences.tex}
+
 % EDUCATION SECTION
-%--------------------------------------------------------------------------
-\section{Education}
-\vspace{-0.3cm}
-\textbf{UTP Universiti Teknologi PETRONAS, Tronoh, Malaysia}
-    \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad
-\textsc{May 2015 - Dec 2019} \\
-\jobtitle{Bachelor (hons) of Information \& Communication Technology}
-    \quad \quad \quad \quad \quad \quad  
-\textbf{CGPA: 3.73} \vspace{-0.15cm}
-    \begin{itemize}[noitemsep]
-        \item Major in Software Engineering
-        \item Minor in Business Management
-    \end{itemize}
-\textbf{Bilkent University, Ankara, Turkey}
-    \quad \quad \quad \quad \quad \quad \quad \quad \quad
-    \quad \quad \quad \quad \quad \quad \quad \quad \quad
-\textsc{ Sept 2017 - Jan 2018} \\
-\jobtitle{Computer Technology \& Information System Department} \vspace{-0.15cm}
-    \begin{itemize}[noitemsep]
-        \item Student Exchange under Erasmus program.
-    \end{itemize}
-%--------------------------------------------------------------------------
+\import{Right/}{R3-Education.tex}
+
 % ACADEMIC PROJECTS SECTION
-%--------------------------------------------------------------------------
-\section{Academic Projects}
-\vspace{-0.2cm}
-\textbf{2019}
-    \vspace{0.1mm} {\quad \quad Data Compression \& Data Hiding during Large Data Ingestion} \\
-    \vspace{0.1mm} {\quad \quad \quad \quad Face Recognition Attendance System} \\
-    \vspace{0.1mm} {\quad \quad \quad \quad Mind-Controlled Wheelchair} 
-    
-\textbf{2018}
-    \vspace{0.1mm} {\quad \quad Wireless Channel Control Hovercraft}    
- 
-\textbf{2017}
-    \vspace{0.1mm} {\quad \quad Food Ordering System in UTP} \\
-    \vspace{0.1mm} {\quad \quad \quad \quad Self-Signed Certificate Web Server}
-    
-\textbf{2016}   
-    \vspace{0.1mm} {\quad \quad Gym Management System}\\
-    \vspace{0.1mm} {\quad \quad \quad \quad Automated Timetable in UTP} 
-%--------------------------------------------------------------a------------
-% COMPETITION SECTION
-%--------------------------------------------------------------------------3
-\section{Competitions}
-\vspace{-0.2cm}
-\textbf{2019}
-    \vspace{0.1mm} {\quad \quad Brain-Computer Interface (BCI) Contest using Mind-Controlled Drone} 
-    
-\textbf{2017}
-    \vspace{0.1mm} {\quad \quad GPU/CUDA Programming Competition} \\
-    \vspace{0.1mm} {\quad \quad \quad \quad Ankara Capture the Flag (CTF) Contest}
-    
-\textbf{2016}   
-    \vspace{0.1mm} {\quad \quad The E-Genting Programming Competition} \\
-    \vspace{0.1mm} {\quad \quad \quad \quad The E-Genting Bug Hunt}
+\import{Right/}{R4-Projects.tex}
+
+% COMPETITIONS SECTION
+\import{Right/}{R5-Competitions.tex}
 %--------------------------------------------------------------------------
 \end{document}
