@@ -1,6 +1,6 @@
 ### Meow ~
 
-<p align="center">
+<p align="left">
   <img src="kitten.png">
 </p>
 
