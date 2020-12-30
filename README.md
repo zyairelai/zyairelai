@@ -20,5 +20,5 @@
 <p align="center">
   <img src="conquer.png">
   <br>
-  <em>Look, the whole world is ours</em>
+  <em>Honey, look, the whole world is ours.</em>
 </p>
