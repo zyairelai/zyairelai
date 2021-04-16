@@ -5,7 +5,7 @@
 </p>
 
 ### Who am I?
-- 🤖 I am current working on: https://github.com/zyairelai/futures-omax
+- 🤖 I am current working on: https://github.com/zyairelai/futures-hero
 - 🦄 You can read my thoughts on: https://medium.com/@louiszhenyean 
 - ☁️ I am currently learning Arch Linux, Kubernetes and Helm 
 - 💪 Strength: I can flirt anywhere 😉
