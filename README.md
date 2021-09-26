@@ -16,9 +16,3 @@
 - ✅ Build a project that can generate my passive income 🚀
 - ✅ Contribute to open source community on any project ✨
 - Write an Arch based OS distro for myself 👨‍💻
-
-<p align="center">
-  <img src="conquer.png">
-  <br>
-  <em>Honey, look, the whole world is ours.</em>
-</p>
