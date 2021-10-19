@@ -9,8 +9,8 @@
 - 🦄 You can read my thoughts on: https://medium.com/@louiszhenyean 
 - ☁️ I am currently learning Arch Linux, Kubernetes and Helm 
 - 💪 Strength: I can flirt anywhere 😉
-- 🥺 Weakness: Those beautiful eyes of yours 😏
-- 🤔 Fun fact: Do you know no one can hack your account if you change your password to "family"? Because nothing is stronger than family 🤌
+- 🥺 Weakness: Those beautiful eyes of yours 😍
+- 🤔 Fun fact: The strongest password is "family" because nothing is stronger than family 😏
 
 ### My goals for 2021:
 - ✅ Build a project that can generate my passive income 🚀
