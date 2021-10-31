@@ -10,7 +10,7 @@
 - ☁️ I am currently learning Arch Linux, Kubernetes and Helm 
 - 💪 Strength : I can flirt anywhere 😉
 - 🥺 Weakness : Those beautiful eyes of yours 😍
-- 🤔 Fun fact : Did you click on my name in my Resume / CV ? 😏
+- 🤔 Fun fact : Had you try to click on my name in my Resume / CV ? 😏
 
 ### My goals for 2021:
 - ✅ Build a project that can generate my passive income 🚀
