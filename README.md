@@ -20,5 +20,5 @@
 
 ### My goals for 2022:
 - Build a mobile app (kotlin) that can predict a whole life of a person with Yi-Ching 🔮
-- Reaching Pro Hacker within the first 6 months, and Elite Hacker at the end of the year on HackTheBox  👨‍💻
+- Reaching Pro Hacker within the first 6 months, and Elite Hacker by the end of the year on HackTheBox  👨‍💻
 - Execute my revenge on 2 gaming websites 👿
