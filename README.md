@@ -9,7 +9,7 @@
 - 👨‍💻 I am current working on [this trading bot](https://github.com/zyairelai/futures-hero) & [that mobile app](https://github.com/zyairelai/ching-chong-calculator)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 - 🦄 My current focus is on Quantitative Trading and [Penetration Testing](https://app.hackthebox.com/profile/223593). 
-- 💪 Strength : I can flirt anywhere 😍
+- 💪 Strength : I can flirt anywhere 😻
 - 💔 Weakness : Those beautiful eyes of yours 🥺
 - 🤔 Fun fact : Had you try to click on my name in my CV / Résumé ? 😏
 
