@@ -21,11 +21,15 @@
 ### My goals for 2021:
 
 - ✅ Build a project that can generate my passive income 🚀
+
 - ✅ Contribute to open source community on any project ✨
+
 - Write an Arch based OS distro for myself 👨‍💻
 
 ### My goals for 2022:
 
 - Build a mobile app (kotlin) that can predict a whole life of a person with Yi-Ching 🔮
+
 - Reaching Pro Hacker within the first 6 months, and Elite Hacker at the end of the year on HackTheBox  👨‍💻
+
 - Execute my revenge on 2 gaming websites 👿
