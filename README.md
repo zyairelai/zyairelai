@@ -19,7 +19,7 @@
 - Write an Arch based OS distro for myself 👨‍💻
 
 ### My goals for 2022:
-- Build a Android App (kotlin) that can predict a whole life of a person with Yi-Ching 🔮
+- Build a Mobile App that can predict a whole life of a person with Yi-Ching 🔮
 - Reaching Pro Hacker rank on HackTheBox within the first 6 months 👨‍💻
 - Reaching Elite Hacker rank on HackTheBox by the end of the year 👿
 
