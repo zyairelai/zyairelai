@@ -13,13 +13,7 @@
 - 💔 Weakness : Those beautiful eyes of yours 🥺
 - 🤔 Fun fact : Had you try to click on my name in my CV / Résumé ? 😏
 
-### My goals for 2021:
-- ✅ Build a project that can generate my passive income 🚀
-- ✅ Contribute to open source community on any project ✨
-- Write an Arch based OS distro for myself 👨‍💻
-
 ### My goals for 2022:
 - Build a Mobile App that can predict a whole life of a person with Yi-Ching 🔮
-- Reaching Pro Hacker rank on HackTheBox within the first 6 months 👨‍💻
-- Reaching Elite Hacker rank on HackTheBox by the end of the year 👿
-
+- Reaching Pro Hacker rank on HackTheBox before June 2022 👨‍💻
+- Reaching Elite Hacker rank on HackTheBox by December 2022 👿
