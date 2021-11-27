@@ -6,12 +6,12 @@
 
 ### Who am I?
 
-- 👨‍💻 I am current working on [this Trading Bot](https://github.com/zyairelai/futures-hero) & [that Andriod App](https://github.com/zyairelai/ching-chong-calculator)
+- 👨‍💻 I am current working on [this Mobile App](https://github.com/zyairelai/ching-chong-calculator) & maintaining [that Trading Bot](https://github.com/zyairelai/futures-hero)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 - 🦄 My current focus is on Quantitative Trading and [Penetration Testing](https://app.hackthebox.com/profile/223593). 
 - 💪 Strength : I can flirt anywhere 😻
 - 💔 Weakness : Those beautiful eyes of yours 🥺
-- 🤔 Fun fact : Had you try to click on my name in my CV / Résumé ? 😏
+- 😏 Fun fact : I have Pokémon and Rick Roll in my formal CV / Résumé 😂
 
 ### My goals for 2022:
 - Build a Mobile App that can predict a whole life of a person with Yi-Ching 🔮
