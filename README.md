@@ -6,7 +6,7 @@
 
 ### Who am I?
 
-- 👨‍💻 I am current working on [this Mobile App](https://github.com/zyairelai/ching-chong-calculator) & maintaining [that Trading Bot](https://github.com/zyairelai/futures-hero)
+- 👨‍💻 I am current working on [this Flutter App](https://github.com/zyairelai/ching-chong-calculator) & maintaining [that Trading Bot](https://github.com/zyairelai/futures-hero)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 - 🦄 My current focus is on Quantitative Trading and Penetration Testing. 
 - 💪 Strength : I can flirt anywhere 😻
@@ -16,4 +16,4 @@
 ### My goals for 2022:
 - Getting [CEH Certification](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/) 🎓
 - Reaching Pro Hacker rank on [HackTheBox](https://app.hackthebox.com/profile/223593) 👨‍💻
-- Build a Mobile App that can predict a whole life of a person with [Yi-Ching](https://en.wikipedia.org/wiki/I_Ching) 🔮
+- Build a Flutter App for Lunar Birth Chart reading based on [Yi-Ching](https://en.wikipedia.org/wiki/I_Ching) 🔮
