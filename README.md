@@ -14,6 +14,6 @@
 - 😏 Fun fact : I have Pokémon and Rick Roll in my formal CV / Résumé 😂
 
 ### My goals for 2022:
+- Getting CeH Certification 🎓
+- Reaching Pro Hacker rank on HackTheBox 👨‍💻
 - Build a Mobile App that can predict a whole life of a person with Yi-Ching 🔮
-- Reaching Pro Hacker rank on HackTheBox before June 2022 👨‍💻
-- Reaching Elite Hacker rank on HackTheBox by December 2022 👿
