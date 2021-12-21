@@ -16,4 +16,4 @@
 ### My goals for 2022:
 - 👨‍💻 Reaching Elite Hacker rank on [HackTheBox](https://app.hackthebox.com/profile/223593)
 - 🎓 Getting [PEN-200 OSCP](https://www.offensive-security.com/pwk-oscp/) Certification 
-- 😈 
+- 🐞 Getting [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
