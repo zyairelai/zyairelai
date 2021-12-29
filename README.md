@@ -6,7 +6,7 @@
 
 ### Who am I?
 
-- 👨‍💻 I am currently **FULL THROTTLE** on Offensive Penetration Testing <!--- maintaining [that Trading Bot](https://github.com/zyairelai/futures-hero) -->
+- 👨‍💻 I am currently **FULL THROTTLE** on Offensive Security PWK-200 Course <!--- maintaining [that Trading Bot](https://github.com/zyairelai/futures-hero) -->
 - 🔮 Besides tech, I like Ancient Chinese Fortune Telling and learning my way to build this [this Flutter App](https://github.com/zyairelai/ching-chong-calculator)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 - 💪 Strength : I can flirt anywhere 😻
