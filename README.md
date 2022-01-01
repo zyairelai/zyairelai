@@ -15,5 +15,5 @@
 
 ### My goals for 2022:
 - 👨‍💻 Reaching Pro Hacker rank on [HackTheBox](https://app.hackthebox.com/profile/223593)
-- 🎓 Becoming Offensive Security Certified Professional (OSCP)
-- 🐞 Becoming [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
+- 🎓 Become Offensive Security Certified Professional (OSCP)
+- 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
