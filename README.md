@@ -14,6 +14,13 @@
 - 🦄 Fun fact : I have Pokémon and Rick Roll in my Résumé 🕺🏼
 
 ### My goals for 2022:
-- 👨‍💻 Reaching Pro Hacker rank on [HackTheBox](https://app.hackthebox.com/profile/223593)
+- 👨‍💻 Reaching Pro Hacker rank on HackTheBox
 - 🎓 Become Offensive Security Certified Professional (OSCP)
 - 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
+
+### Web Profiles 👨‍💻
+- TryHackMe https://tryhackme.com/p/Zyaire
+- HackTheBox https://app.hackthebox.com/profile/223593
+- PwnTillDawn https://online.pwntilldawn.com/Achievements/3175
+- HackerOne https://hackerone.com/zyaire?type=user (I am not active here)
+- I do have shadow clones on [Port Swigger](https://portswigger.net/web-security/dashboard) and [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)!
