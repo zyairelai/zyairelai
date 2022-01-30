@@ -22,5 +22,6 @@
 - TryHackMe https://tryhackme.com/p/Zyaire
 - HackTheBox https://app.hackthebox.com/profile/223593
 - PwnTillDawn https://online.pwntilldawn.com/Achievements/3175
-- HackerOne https://hackerone.com/zyaire?type=user (I am not active here)
+- (I am not active here) Bugcrowd https://bugcrowd.com/Zyaire 
+- (I am not active here) HackerOne https://hackerone.com/zyaire?type=user 
 - I do have shadow clones on [Port Swigger Burp Academy](https://portswigger.net/web-security/dashboard) and [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)!
