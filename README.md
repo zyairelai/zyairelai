@@ -13,7 +13,7 @@
 - 💔 Weakness : Those beautiful eyes of yours 🥺
 - 🦄 Fun fact : If it costs me 10 minutes to do two 5 minutes reccuring tasks, I'd rather spend 1 hour to automate it 🕺🏼
 
-### "Hecking" Profiles 👨‍💻
+### "Hecking" Portfolios 👨‍💻
 - TryHackMe https://tryhackme.com/p/Zyaire
 - HackTheBox https://app.hackthebox.com/profile/223593
 - PwnTillDawn https://online.pwntilldawn.com/Achievements/3175
