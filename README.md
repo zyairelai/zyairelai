@@ -13,11 +13,6 @@
 - 💔 Weakness : Those beautiful eyes of yours 🥺
 - 🦄 Fun fact : If it costs me 10 minutes to do two 5 minutes reccuring tasks, I'd rather spend 1 hour to automate it 🕺🏼
 
-### My goals for 2022:
-- 👨‍💻 Reaching Pro Hacker rank on HackTheBox
-- 🎓 Become Offensive Security Certified Professional (OSCP)
-- 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
-
 ### Web Profiles 👨‍💻
 - TryHackMe https://tryhackme.com/p/Zyaire
 - HackTheBox https://app.hackthebox.com/profile/223593
@@ -26,3 +21,8 @@
 - (This does not have Public Profile) [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)
 - (I am not active here) Bugcrowd https://bugcrowd.com/Zyaire 
 - (I am not active here) HackerOne https://hackerone.com/zyaire
+
+### My goals for 2022:
+- 👨‍💻 Reaching Pro Hacker rank on HackTheBox
+- 🎓 Become [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/offsec/what-it-means-to-be-oscp/)
+- 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
