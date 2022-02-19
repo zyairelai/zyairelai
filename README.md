@@ -23,6 +23,6 @@
 - (I am not active here) HackerOne https://hackerone.com/zyaire
 
 ### My goals for 2022:
-- 👨‍💻 Reaching Pro Hacker rank on HackTheBox
+- 👨‍💻 Reaching [0xD GOD rank](https://docs.tryhackme.com/docs/general/tryhackme-levels/) on TryHackMe 
 - 🎓 Become [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/offsec/what-it-means-to-be-oscp/)
 - 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
