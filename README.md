@@ -21,8 +21,8 @@
 - (This does not have Public Profile) [Offensive Security Proving Grounds](https://www.offensive-security.com/labs/)
 - (I am not active here) Bugcrowd https://bugcrowd.com/Zyaire 
 - (I am not active here) HackerOne https://hackerone.com/zyaire
-- QwikLabs Season 1 (Clouds and Devops) https://www.qwiklabs.com/public_profiles/71968865-0b3b-4f8b-9fa5-7b94c458ee96
-- QwikLabs Season 2 (Artificial Intelligence and Machine Learning) https://www.qwiklabs.com/public_profiles/8a86fcb5-9b5e-4d05-b4f7-43454cd97463
+- QwikLabs Season 1 [Clouds and Devops](https://www.qwiklabs.com/public_profiles/71968865-0b3b-4f8b-9fa5-7b94c458ee96)
+- QwikLabs Season 2 [Artificial Intelligence and Machine Learning](https://www.qwiklabs.com/public_profiles/8a86fcb5-9b5e-4d05-b4f7-43454cd97463)
 
 ### My goals for 2022:
 - 👨‍💻 Reaching [0xD GOD rank](https://docs.tryhackme.com/docs/general/tryhackme-levels/) on TryHackMe 
