@@ -11,7 +11,7 @@
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 - 💪 Strength : I can flirt anywhere 😻
 - 💔 Weakness : Those beautiful eyes of yours 🥺
-- 🦄 Fun fact : If it costs me 10 minutes to do two 5 minutes reccuring tasks, I'd rather spend 1 hour to automate it 🕺🏼
+- 🦄 Fun fact : If it costs me 10 minutes to do two 5 minutes reccuring tasks, I'd rather spend 6 hours to automate it 🕺🏼
 
 ### "Hecking" Portfolios 👨‍💻
 - TryHackMe https://tryhackme.com/p/Zyaire
