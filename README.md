@@ -22,7 +22,7 @@
 - QwikLabs Season 2 [Artificial Intelligence and Machine Learning](https://www.qwiklabs.com/public_profiles/8a86fcb5-9b5e-4d05-b4f7-43454cd97463)
 
 ### My goals for 2022:
-- 👨‍💻 Reaching [Pro Hacker rank](https://help.hackthebox.com/en/articles/5185158-introduction-to-hack-the-box) on HackTheBox 
+- ✅ Reaching [Pro Hacker rank](https://help.hackthebox.com/en/articles/5185158-introduction-to-hack-the-box) on HackTheBox 
 - 👨‍💻 Reaching [0xD GOD rank](https://docs.tryhackme.com/docs/general/tryhackme-levels/) on TryHackMe 
 - 🎓 Become [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/offsec/what-it-means-to-be-oscp/)
 - 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
