@@ -1,8 +1,16 @@
-### Meow ~
+<p align="center"><img src="kitten.png"></p>
 
+<h1 align="center"><samp><b>Meow~ I'm a cat btw 🐾</b></samp></h1>
+  
 <p align="center">
-  <img src="kitten.png">
+<a href="https://github.com/zyairelai?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
+<a href="https://github.com/zyairelai" target="_blank"><img alt="zyairelai" src="https://badges.pufler.dev/visits/zyairelai/zyairelai?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/zyairelai" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/zyairelai/zyairelai?label=profile%20updated&style=flat-square"></a>
 </p>
+<h3 align="center">I am a Noob Hecker, also a Trading Bot Developer 👨‍💻</h3>
+
+<details>
+<summary  align="center"> <samp align="center">&#9776; Details</samp></summary> 
 
 ### Who am I?
 
@@ -26,3 +34,5 @@
 - 👨‍💻 Reaching [0xD GOD rank](https://docs.tryhackme.com/docs/general/tryhackme-levels/) on TryHackMe 
 - 🎓 Become [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/offsec/what-it-means-to-be-oscp/)
 - 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
+
+</details>
