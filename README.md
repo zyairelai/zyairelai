@@ -36,4 +36,15 @@
 - 🎓 Become [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/offsec/what-it-means-to-be-oscp/)
 - 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
 
+
+<h2>Hack The Box</h2><p> <p>
+<a href="https://www.hackthebox.eu/profile/218914"><img src="http://www.hackthebox.eu/badge/image/223593" alt="Hack The Box"></a><p> <p>
+<h2>Github Stats</h2>
+  <p> <p>
+  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyairelai&theme=monokai"  width="60%" height="60%"></a>
+  <p> <p>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zyairelai&show_icons=true&count_private=true&theme=dark" width="50%" height="50%"></a>
+  <p> <p>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyairelai&layout=compact&theme=dark" width="50%" height="50%"></a>
+
 </details>
