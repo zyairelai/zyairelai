@@ -54,16 +54,24 @@
   - 🎓 Become [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/offsec/what-it-means-to-be-oscp/)
   - 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
 
-  <h2>Github Stats</h2>
+  ### Github Stats
   <p> <p>
-    <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyairelai&theme=monokai"  width="60%" height="60%">
-  </a>
-  <p> <p>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=zyairelai&show_icons=true&count_private=true&theme=dark" width="50%" height="50%">
+    <a href="#">
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyairelai&theme=monokai"  width="60%" height="60%">
+      </p>
     </a>
   <p> <p>
     <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyairelai&layout=compact&theme=dark" width="50%" height="50%">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=zyairelai&show_icons=true&count_private=true&theme=dark" width="50%" height="50%">
+      </p>
+    </a>
+  <p> <p>
+    <a href="#">
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyairelai&layout=compact&theme=dark" width="50%" height="50%">
+      </p>
     </a>
 
 </details>
