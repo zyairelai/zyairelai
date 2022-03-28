@@ -22,10 +22,9 @@
 - 💔 Weakness : Those beautiful eyes of yours 🥺
 - 🦄 Fun fact : If it costs me 10 minutes to do two 5 minutes reccuring tasks, I'd rather spend 6 hours to automate it 🕺🏼
 
-### "Hecking" Portfolios 👨‍💻
+### ⚔️ Portfolios ⚔️
+<a href="https://tryhackme.com/p/Zyaire"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png" alt="TryHackMe"></a> <a href="https://www.hackthebox.eu/profile/218914"><img src="http://www.hackthebox.eu/badge/image/223593" alt="HackTheBox"></a> <p> <p> 
 - Bugcrowd https://bugcrowd.com/Zyaire 
-- TryHackMe https://tryhackme.com/p/Zyaire
-- HackTheBox https://app.hackthebox.com/profile/223593
 - PwnTillDawn https://online.pwntilldawn.com/Achievements/3175
 - QwikLabs Season 1 [Clouds and Devops](https://www.qwiklabs.com/public_profiles/71968865-0b3b-4f8b-9fa5-7b94c458ee96)
 - QwikLabs Season 2 [Artificial Intelligence and Machine Learning](https://www.qwiklabs.com/public_profiles/8a86fcb5-9b5e-4d05-b4f7-43454cd97463)
@@ -36,9 +35,6 @@
 - 🎓 Become [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/offsec/what-it-means-to-be-oscp/)
 - 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
 
-
-<h2>Hack The Box</h2><p> <p>
-<a href="https://www.hackthebox.eu/profile/218914"><img src="http://www.hackthebox.eu/badge/image/223593" alt="Hack The Box"></a><p> <p>
 <h2>Github Stats</h2>
   <p> <p>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyairelai&theme=monokai"  width="60%" height="60%"></a>
