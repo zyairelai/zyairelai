@@ -67,11 +67,4 @@
         <img src="https://github-readme-stats.vercel.app/api?username=zyairelai&show_icons=true&count_private=true&theme=dark" width="50%" height="50%">
       </p>
     </a>
-  <p> <p>
-    <a href="#">
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyairelai&layout=compact&theme=dark" width="50%" height="50%">
-      </p>
-    </a>
-
 </details>
