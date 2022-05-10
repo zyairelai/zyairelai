@@ -37,7 +37,7 @@
   - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
   - 💪 Strength : I can flirt anywhere 😻
   - 💔 Weakness : Those beautiful eyes of yours 🥺
-  - 🦄 Fun fact : If it costs me 10 minutes to do two 5 minutes reccuring tasks, I'd rather spend 6 hours to automate it 🕺🏼
+  - 🦄 Fun fact : I automate tedious task at work and people calls me cheater because of that 🕺🏼
 
   ### ⚔️ Portfolios ⚔️
   <a href="https://tryhackme.com/p/Zyaire"><p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png" alt="TryHackMe"></a> <a href="https://www.hackthebox.eu/profile/218914"><img src="http://www.hackthebox.eu/badge/image/223593" alt="HackTheBox"></p></a> <p> <p>
