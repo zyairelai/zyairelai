@@ -24,21 +24,21 @@
 
 <h3 align="center">I am a Noob Hecker, also a Trading Bot Developer 👨‍💻</h3>
 
+  ### Who am I?
+
+  - 👨‍💻 I am currently **FULL THROTTLE** on [Offensive Security PWK/PEN-200 Course](https://www.offensive-security.com/pwk-oscp/) <!--- maintaining [that Trading Bot](https://github.com/zyairelai/futures-hero) -->
+  - 🔮 Besides hecking, I play around different Linux Distros because I love [Unix Porn](https://www.reddit.com/r/unixporn/), gonna start OnlyFans for that
+  - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
+  - 💪 Strength : I can flirt anywhere 😻
+  - 💔 Weakness : Those beautiful eyes of yours 🥺
+  - 🦄 Fun fact : I automate tedious tasks at my job and people calls me cheater because of that 🧿
+  
 <details>
   <summary  align="center">
     <samp align="center">
       &#9776; Click Here to Learn More
     </samp></summary> 
-
-  ### Who am I?
-
-  - 👨‍💻 I am currently **FULL THROTTLE** on [Offensive Security PWK/PEN-200 Course](https://www.offensive-security.com/pwk-oscp/) <!--- maintaining [that Trading Bot](https://github.com/zyairelai/futures-hero) -->
-  - 🔮 Besides hecking, I like Ancient Chinese Fortune Telling and learning my way to build this [this Flutter App](https://github.com/zyairelai/ching-chong-calculator)
-  - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
-  - 💪 Strength : I can flirt anywhere 😻
-  - 💔 Weakness : Those beautiful eyes of yours 🥺
-  - 🦄 Fun fact : I automate tedious task at work and people calls me cheater because of that 🕺🏼
-
+  
   ### ⚔️ CTF Portfolios ⚔️
   <a href="https://tryhackme.com/p/Zyaire"><p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png" alt="TryHackMe"></a> <a href="https://www.hackthebox.eu/profile/223593"><img src="http://www.hackthebox.eu/badge/image/223593" alt="HackTheBox"></p></a> <p> <p>
   - Bugcrowd https://bugcrowd.com/Zyaire  
