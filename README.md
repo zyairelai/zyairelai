@@ -41,10 +41,15 @@
   
   ### ⚔️ CTF Portfolios ⚔️
   <a href="https://tryhackme.com/p/Zyaire"><p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png" alt="TryHackMe"></a> <a href="https://www.hackthebox.eu/profile/223593"><img src="http://www.hackthebox.eu/badge/image/223593" alt="HackTheBox"></p></a> <p> <p>
-  - Bugcrowd https://bugcrowd.com/Zyaire  
   - HackTheBox https://app.hackthebox.com/profile/223593  
   - PwnTillDawn https://online.pwntilldawn.com/Achievements/3175  
-  - TryHackMe https://tryhackme.com/p/Zyaire  
+  - TryHackMe https://tryhackme.com/p/Zyaire 
+  - [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) - This does not have a public profile but here is my writeup 👇👇👇😉😜🤪
+<p align="center">https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39</p> 
+  
+
+
+  ### ☁️ DevOps Portfolio ☁️
   - QwikLabs Season 1 [Clouds and Devops](https://www.qwiklabs.com/public_profiles/71968865-0b3b-4f8b-9fa5-7b94c458ee96)  
   - QwikLabs Season 2 [Artificial Intelligence and Machine Learning](https://www.qwiklabs.com/public_profiles/8a86fcb5-9b5e-4d05-b4f7-43454cd97463)  
 
@@ -58,13 +63,13 @@
   <p> <p>
     <a href="#">
       <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyairelai&theme=monokai"  width="60%" height="60%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyairelai"  width="60%" height="60%">
       </p>
     </a>
   <p> <p>
     <a href="#">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=zyairelai&show_icons=true&count_private=true&theme=dark" width="50%" height="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=zyairelai&show_icons=true&count_private=true" width="50%" height="50%">
       </p>
     </a>
 </details>
