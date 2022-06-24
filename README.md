@@ -31,7 +31,7 @@
   - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
   - 💪 Strength : I can flirt anywhere 😻
   - 💔 Weakness : Those beautiful eyes of yours 🥺
-  - 🦄 Fun fact : I automate tedious tasks at my job and people calls me cheater because of that 🧿
+  - 🦄 Fun fact : I automate tedious tasks at my job and people calls me cheater 🧿
   
 <details>
   <summary  align="center">
@@ -40,26 +40,22 @@
     </samp></summary> 
   
   ### ⚔️ CTF Portfolios ⚔️
-  <a href="https://tryhackme.com/p/Zyaire"><p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png" alt="TryHackMe"></a> <a href="https://www.hackthebox.eu/profile/223593"><img src="http://www.hackthebox.eu/badge/image/223593" alt="HackTheBox"></p></a> <p> <p>
-  - HackTheBox https://app.hackthebox.com/profile/223593  
-  - PwnTillDawn https://online.pwntilldawn.com/Achievements/3175  
-  - TryHackMe https://tryhackme.com/p/Zyaire 
-  - [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) - This does not have a public profile but here is my writeup 👇👇👇😉😜🤪
-<p align="center">https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39</p> 
-  
-
+  - TryHackMe - https://tryhackme.com/p/Zyaire 
+  - PwnTillDawn - https://online.pwntilldawn.com/Achievements/3175 - My writeups are [**HERE**](https://zyaire.notion.site/PwnTillDawn-ad8f085a4a914bee9c62779d94896698)
+  - [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) - This does not have a public profile anyway [**HERE** is my writeup](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39)
+  - HackTheBox - https://app.hackthebox.com/profile/223593 - (No Longer Active Here) 
 
   ### ☁️ DevOps Portfolio ☁️
   - QwikLabs Season 1 [Clouds and Devops](https://www.qwiklabs.com/public_profiles/71968865-0b3b-4f8b-9fa5-7b94c458ee96)  
   - QwikLabs Season 2 [Artificial Intelligence and Machine Learning](https://www.qwiklabs.com/public_profiles/8a86fcb5-9b5e-4d05-b4f7-43454cd97463)  
 
-  ### My goals for 2022:
+  ### 🎯 My goals for 2022 🎯
   - ✅ Reaching [Pro Hacker rank](https://help.hackthebox.com/en/articles/5185158-introduction-to-hack-the-box) on HackTheBox 
   - 👨‍💻 Reaching [0xD GOD rank](https://docs.tryhackme.com/docs/general/tryhackme-levels/) on TryHackMe 
   - 🎓 Become [Offensive Security Certified Professional (OSCP)](https://www.offensive-security.com/offsec/what-it-means-to-be-oscp/)
   - 🐞 Become [Burp Suite Certified Practitioner](https://portswigger.net/web-security/certification)
 
-  ### Github Stats
+  ### 🐧 Github Stats 🐧
   <p> <p>
     <a href="#">
       <p align="center">
