@@ -15,7 +15,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/zyairelai?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/followers/x-Ai?color=green&logo=Github" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/zyairelai?color=green&logo=Github" alt="GitHub badge" />
   </a>
   <a href="https://github.com/zyairelai" target="_blank">
     <img alt="zyairelai" src="https://badges.pufler.dev/visits/zyairelai/zyairelai?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
