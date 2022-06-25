@@ -29,8 +29,10 @@
 - 🔮 Besides hecking, I play around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 
-## CTF Profiles
-- [TryHackMe](https://tryhackme.com/p/Zyaire)
-- [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) - OSPG does not have a public profile anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39)
-- [(No Longer Active) HackTheBox](https://app.hackthebox.com/profile/223593) - [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Machines-9af09b80647448bd8a37da871bc7fecf)
-- [(No Longer Active) PwnTillDawn](https://online.pwntilldawn.com/Achievements/3175) - [**HERE IS MY WRITEUP**](https://zyaire.notion.site/PwnTillDawn-ad8f085a4a914bee9c62779d94896698)
+## ⚔️ CTF Profiles ⚔️
+| Online Battlefield | Portal to Teleport |
+|---|---|
+| [TryHackMe](https://tryhackme.com/p/Zyaire) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/TryHackMe-a88bfec02bb8444f9c80a4a2a8c17a93) |
+| [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) | OSPG does not have a public profile anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39) |
+| [(No Longer Active) HackTheBox](https://app.hackthebox.com/profile/223593) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Machines-9af09b80647448bd8a37da871bc7fecf) |
+| [(No Longer Active) PwnTillDawn](https://online.pwntilldawn.com/Achievements/3175) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/PwnTillDawn-ad8f085a4a914bee9c62779d94896698) |
