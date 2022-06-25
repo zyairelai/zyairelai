@@ -29,7 +29,7 @@
 - 🔮 Besides hecking, I play around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 
-## CTF Portfolios
+## CTF Profiles
 - [TryHackMe](https://tryhackme.com/p/Zyaire)
 - [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) - OSPG does not have a public profile anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39)
 - [HackTheBox (No Longer Active)](https://app.hackthebox.com/profile/223593)
