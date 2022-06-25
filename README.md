@@ -31,6 +31,6 @@
 
 ## CTF Portfolios
 - [TryHackMe](https://tryhackme.com/p/Zyaire)
-- [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) - This does not have a public profile anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39)
+- [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) - OSPG does not have a public profile anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39)
 - [HackTheBox (No Longer Active)](https://app.hackthebox.com/profile/223593)
 - [PwnTillDawn (No Longer Active)](https://online.pwntilldawn.com/Achievements/3175) - [**HERE IS MY WRITEUP**](https://zyaire.notion.site/PwnTillDawn-ad8f085a4a914bee9c62779d94896698)
