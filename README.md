@@ -30,7 +30,7 @@
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 
 ## ⚔️ CTF Profiles ⚔️
-| Online Battlefield | Portal to Teleport |
+| Online Battlefield | Teleport Portal |
 |---|---|
 | [TryHackMe](https://tryhackme.com/p/Zyaire) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/TryHackMe-a88bfec02bb8444f9c80a4a2a8c17a93) |
 | [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) | OSPG does not have a public profile anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39) |
