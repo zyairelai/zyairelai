@@ -15,11 +15,10 @@
 </p>
 <p align="center">
   <a href="https://github.com/zyairelai?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/github/followers/zyairelai?color=green&logo=Github" alt="GitHub badge" />
-  </a>
+    <img src="https://img.shields.io/github/followers/zyairelai?color=green&logo=Github" alt="GitHub badge" /></a>
   <a href="https://github.com/zyairelai" target="_blank">
-    <img alt="zyairelai" src="https://badges.pufler.dev/visits/zyairelai/zyairelai?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/>
-  </a>
+    <img alt="zyairelai" src="https://badges.pufler.dev/visits/zyairelai/zyairelai?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+  <a href="https://github.com/kevinjycui/zyairelai" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/zyairelai/zyairelai?label=profile%20updated&style=flat-square"></a>
 </p>
 
 <h3 align="center">I am a Noob Hecker, also a Trading Bot Developer 👨‍💻</h3>
