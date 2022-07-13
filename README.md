@@ -34,7 +34,7 @@
   
 | Online Battlefield | Teleport Portal | Body Count | 
 |:---:|:---:|:---:|
-| [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) <br> (My current main 🎯 is here) | OSPG does not have a public profile <br> Anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39) | 💚 30 <br> 🧡 0 <br> ❤️ 0 |
+| [Offensive Security Proving Ground](https://www.offensive-security.com/labs/) <br> (My current main 🎯 is here) | OSPG does not have a public profile <br> Anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39) | 💚 30 <br> 🧡 2 <br> ❤️ 0 |
 | [TryHackMe](https://tryhackme.com/p/Zyaire) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/TryHackMe-a88bfec02bb8444f9c80a4a2a8c17a93) | <a href="https://tryhackme.com/p/Zyaire"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png" alt="TryHackMe"></a> |
 | [HackTheBox (No Longer Active)](https://app.hackthebox.com/profile/223593) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Machines-9af09b80647448bd8a37da871bc7fecf) | <a href="https://www.hackthebox.eu/profile/223593"><img src="http://www.hackthebox.eu/badge/image/223593" alt="HackTheBox"></a> |
 | [PwnTillDawn (No Longer Active)](https://online.pwntilldawn.com/Achievements/3175) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/PwnTillDawn-ad8f085a4a914bee9c62779d94896698) | 💚 11 <br> 🧡 6 <br> ❤️ 0 |
