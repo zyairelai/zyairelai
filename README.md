@@ -21,7 +21,7 @@
 
 <h3 align="center">I am a Noob Hecker, also a Trading Bot Developer 👨‍💻</h3>
 
-## Who am I?
+## root:~# whoami
 - 👨‍💻 I am currently pursuing [Offensive Security PEN-200 Course](https://www.offensive-security.com/pwk-oscp/) (Exam on November)
 - 🔮 Besides hecking, I play around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
