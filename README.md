@@ -36,5 +36,5 @@
 | [TryHackMe](https://tryhackme.com/p/Zyaire) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/TryHackMe-a88bfec02bb8444f9c80a4a2a8c17a93) | <a href="https://tryhackme.com/p/Zyaire"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png?3" alt="TryHackMe"></a> |
 | [HackTheBox](https://app.hackthebox.com/profile/223593) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Machines-9af09b80647448bd8a37da871bc7fecf) | <a href="https://www.hackthebox.eu/profile/223593"><img src="http://www.hackthebox.eu/badge/image/223593" alt="HackTheBox"></a> |
 | [PwnTillDawn](https://online.pwntilldawn.com/Achievements/3175) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/PwnTillDawn-ad8f085a4a914bee9c62779d94896698) | 💚 12 <br> 🧡 7 <br> ❤️ 2 |
-| [PortSwigger Burp Academy](https://portswigger.net/web-security/all-labs) | - | 💚 52 <br> 💙 31 <br> 💜 5 |
+| [PortSwigger Academy](https://portswigger.net/web-security/all-labs) | - | 💚 52 <br> 💙 31 <br> 💜 5 |
 </div>
