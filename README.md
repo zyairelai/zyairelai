@@ -32,7 +32,7 @@
   
 | Online Battlefield | Teleport Portal | Body Count | 
 |:---:|:---:|:---:|
-| [Offensive Security: <br> Proving Ground Play](https://www.offensive-security.com/labs/) | OSPG does not have a public profile <br> Anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39) | 💚 30 <br> 🧡 13 <br> ❤️ 0 |
+| [Offensive Security: <br> Proving Ground Play](https://www.offensive-security.com/labs/) | OSPG does not have a public profile <br> Anyway [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Proving-Grounds-Play-c1ad519dab414c9e94afcbf446dc1b39) | 💚 30 <br> 🧡 15 <br> ❤️ 0 |
 | [Offensive Security: <br> Proving Ground Practice](https://www.offensive-security.com/labs/) | Ask Me | 💚 9 <br> 🧡 2 <br> ❤️ 0 <br> 🤍 2 |
 | [HackTheBox](https://app.hackthebox.com/profile/223593) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/Machines-9af09b80647448bd8a37da871bc7fecf) | <a href="https://www.hackthebox.eu/profile/223593"><img src="http://www.hackthebox.eu/badge/image/223593" alt="HackTheBox"></a> |
 | [TryHackMe](https://tryhackme.com/p/Zyaire) | [**HERE IS MY NOTES**](https://zyaire.notion.site/TryHackMe-a88bfec02bb8444f9c80a4a2a8c17a93) | <a href="https://tryhackme.com/p/Zyaire"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png?4" alt="TryHackMe"></a> |
