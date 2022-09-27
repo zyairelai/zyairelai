@@ -38,7 +38,7 @@
 | [TryHackMe](https://tryhackme.com/p/Zyaire) | [**HERE IS MY NOTES**](https://zyaire.notion.site/TryHackMe-a88bfec02bb8444f9c80a4a2a8c17a93) | <a href="https://tryhackme.com/p/Zyaire"><img src="https://tryhackme-badges.s3.amazonaws.com/Zyaire.png?4" alt="TryHackMe"></a> |
 | [PwnTillDawn](https://online.pwntilldawn.com/Achievements/3175) | [**HERE IS MY WRITEUP**](https://zyaire.notion.site/PwnTillDawn-ad8f085a4a914bee9c62779d94896698) | 💚 12 <br> 🧡 7 <br> ❤️ 2 |
 | [PentesterLab]( https://pentesterlab.com/profile/Zyaire) | - | F2P User, still new here |
-| [PortSwigger Academy](https://portswigger.net/web-security/all-labs) | - | 💚 52 <br> 💙 31 <br> 💜 5 |
+| [PortSwigger Academy](https://portswigger.net/web-security/all-labs) | - | <p align="center"> <img src="PortSwigger.jpg"> </p> |
 
 
 </div>
