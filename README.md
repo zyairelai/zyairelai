@@ -46,4 +46,10 @@
       &#9776; Click Here to View More
     </samp></summary> 
 
-# Thanks For Reading 💕💕💕
+<h1 align="center">
+  <samp>
+    <b>
+      💕 Thanks For Reading 💕
+    </b>
+  </samp>
+</h1>
