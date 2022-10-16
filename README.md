@@ -22,7 +22,7 @@
 <h3 align="center">I am an OSCP Certified Noob Hecker, also a Trading Bot Developer 👨‍💻</h3>
 
 ## :~# whoami
-- 👨‍💻 I am currently targetting to pursue [Offensive Security WEB-300 Course](https://www.offensive-security.com/awae-oswe/)
+- 👨‍💻 I am currently pursuing [Offensive Security WEB-300 Course](https://www.offensive-security.com/awae-oswe/)
 - 🔮 Besides **hecking**, I play around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 
