@@ -26,6 +26,11 @@
 - 🔮 Besides **hecking**, I play around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 
+## 🐞 bug-bounties 🐛
+- https://hackerone.com/zyaire
+- https://bugcrowd.com/zyaire
+- https://app.intigriti.com/profile/zyaire
+
 <details>
   <summary  align="center">
     <samp align="center">
