@@ -19,7 +19,8 @@
   <a href="https://github.com/zyairelai" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/zyairelai/zyairelai?label=profile%20updated&style=flat-square"></a>
 </p>
 
-<h3 align="center">I used to be a Trading Bot Developer, but now I am an OSCP Certified, also a Synack Red Team Noob Hecker 👨‍💻</h3>
+<h3 align="center">I used to be a Trading Bot Developer 🤖 </h3>
+<h3 align="center">But now I am an OSCP Certified Noob Hecker, also a Synack Red Team Member 👨‍💻</h3>
 
 ## :~# whoami
 - 👨‍💻 I am currently pursuing [Offensive Security WEB-300 Course](https://www.offensive-security.com/awae-oswe/)
