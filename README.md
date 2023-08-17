@@ -20,7 +20,7 @@
 </p>
 
 <h3 align="center">I used to be a Trading Bot Developer 🤖 </h3>
-<h3 align="center">But now I am an OSCP, OSWE, OSWP Certified Noob Hecker 👨‍💻</h3>
+<h3 align="center">But now I am an <a href="https://www.credential.net/05bad733-22a5-43e8-ba50-6b7b15bd726d">OSCP</a>, <a href="https://www.credential.net/c3839081-e2ca-4049-a59e-b73432bd2c65">OSWE</a>, <a href="https://www.credential.net/158caa78-0c14-4e95-be3f-e1bd1f14e53c">OSWP</a> Certified Noob Hecker 👨‍💻</h3>
 
 ## :~# whoami
 - 👨‍💻 I am currently pursuing [Offensive Security PEN-300 Course](https://www.offsec.com/courses/pen-300/)
