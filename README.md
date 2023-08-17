@@ -20,11 +20,11 @@
 </p>
 
 <h3 align="center">I used to be a Trading Bot Developer 🤖 </h3>
-<h3 align="center">But now I am an OSCP Certified Noob Hecker, also a Synack Red Team Member 👨‍💻</h3>
+<h3 align="center">But now I am an OSCP, OSWE, OSWP Certified Noob Hecker 👨‍💻</h3>
 
 ## :~# whoami
-- 👨‍💻 I am currently pursuing [Offensive Security WEB-300 Course](https://www.offensive-security.com/awae-oswe/)
-- 🔮 Besides **hecking**, I play around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
+- 👨‍💻 I am currently pursuing [Offensive Security PEN-300 Course](https://www.offsec.com/courses/pen-300/)
+- 🔮 Besides **hecking**, I hop around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
 - 👽 You can read my crazy thoughts on https://medium.com/@louiszhenyean 
 
 <details>
