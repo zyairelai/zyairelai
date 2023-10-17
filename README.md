@@ -30,6 +30,7 @@
 ## :~# Projects Involved
 - [Buy Low Sell High](https://github.com/zyairelai/buy-low-sell-high) - Low Risk Spot Trading Bot on Binance
 - [Futures Hero](https://github.com/zyairelai/futures-hero) - High risk aggressive scalping bot on Binance
+- [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + virus, some juicy general PoC template 
 - [Kali Rice](https://github.com/zyairelai/kali-rice) - Auto configuration script for hunting OSGAY certifications!
 - [Sub Sub Sui](https://github.com/zyairelai/subsubsui) - Combining 3 subdomain enumeration tool and eliminate false positive live host
 - [Fuzz555](https://github.com/zyairelai/fuzz555) - Automate Logger++ JSON requests and futher integrate with [Nuclei Fuzzing Template](https://github.com/projectdiscovery/fuzzing-templates)
