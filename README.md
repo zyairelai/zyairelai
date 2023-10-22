@@ -31,6 +31,7 @@
 - [Buy Low Sell High](https://github.com/zyairelai/buy-low-sell-high) - Low Risk Spot Trading Bot on Binance
 - [Futures Hero](https://github.com/zyairelai/futures-hero) - High risk aggressive scalping bot on Binance
 - [Kali Rice](https://github.com/zyairelai/kali-rice) - Auto configuration script for hunting OSGAY certifications!
+- [Unix Rice](https://github.com/zyairelai/unix-rice) - r/UnixPorn Collections. I use Mint btw
 - [Sub Sub Sui](https://github.com/zyairelai/subsubsui) - Combining 3 subdomain enumeration tool and eliminate false positive live host
 - [Fuzz555](https://github.com/zyairelai/fuzz555) - Automate Logger++ JSON requests and futher integrate with [Nuclei Fuzzing Template](https://github.com/projectdiscovery/fuzzing-templates)
 - [Black RS](https://github.com/zyairelai/black-rs) - Given you a large IPs.txt, this is the way for you to target the ports you want to go for! RS stands for rustscan btw
