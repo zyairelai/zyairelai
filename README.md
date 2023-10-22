@@ -34,7 +34,7 @@
 - [Unix Rice](https://github.com/zyairelai/unix-rice) - r/UnixPorn Collections. I use Mint btw
 - [Sub Sub Sui](https://github.com/zyairelai/subsubsui) - Combining 3 subdomain enumeration tool and eliminate false positive live host
 - [Fuzz555](https://github.com/zyairelai/fuzz555) - Automate Logger++ JSON requests and futher integrate with [Nuclei Fuzzing Template](https://github.com/projectdiscovery/fuzzing-templates)
-- [Black RS](https://github.com/zyairelai/black-rs) - Given you a large IPs.txt, this is the way for you to target the ports you want to go for! RS stands for rustscan btw
+- [Black RS](https://github.com/zyairelai/black-rs) - Given you a large IPs.txt and not sure how to approach? Just target 1 port!
 - [Nuclei Spider](https://github.com/zyairelai/nuclei-spider) - Subdomain Enumeration + Parameter fuzzing for outdated wildcard scope domain for BB quick win
 - [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy general PoC template 
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon) - Yes I do commit to [Tib3rius](https://github.com/Tib3rius)'s AutoRecon also hehe uwu
