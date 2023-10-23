@@ -32,13 +32,15 @@
 - [Futures Hero](https://github.com/zyairelai/futures-hero) - High risk aggressive scalping bot on Binance
 - [Kali Rice](https://github.com/zyairelai/kali-rice) - Auto configuration script for hunting OSGAY certifications!
 - [Unix Rice](https://github.com/zyairelai/unix-rice) - r/UnixPorn Collections. I use Mint btw
+- [AutoRecon](https://github.com/Tib3rius/AutoRecon) - Yes I do commit to [Tib3rius](https://github.com/Tib3rius)'s AutoRecon also hehe uwu
+- [LinkedIn Skill Assessment Quizzes](https://github.com/zyairelai/linkedin-skill-assessments-quizzes) - Yeah I am so free and I contribute to that as well
+
+## :~# My BB Toolkit
 - [Sub Sub Sui](https://github.com/zyairelai/subsubsui) - Combining 3 subdomain enumeration tool and eliminate false positive live host
 - [Fuzz555](https://github.com/zyairelai/fuzz555) - Automate Logger++ JSON requests and futher integrate with [Nuclei Fuzzing Template](https://github.com/projectdiscovery/fuzzing-templates)
 - [Black RS](https://github.com/zyairelai/black-rs) - Given you a large IPs.txt and not sure how to approach? Just target 1 port!
 - [Nuclei Spider](https://github.com/zyairelai/nuclei-spider) - Subdomain Enumeration + Parameter fuzzing for outdated wildcard scope domain for BB quick win
 - [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy general PoC template 
-- [AutoRecon](https://github.com/Tib3rius/AutoRecon) - Yes I do commit to [Tib3rius](https://github.com/Tib3rius)'s AutoRecon also hehe uwu
-- [LinkedIn Skill Assessment Quizzes](https://github.com/zyairelai/linkedin-skill-assessments-quizzes) - Yeah I am so free and I contribute to that as well
 
 <details>
   <summary  align="center">
