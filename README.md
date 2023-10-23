@@ -36,10 +36,10 @@
 - [LinkedIn Skill Assessment Quizzes](https://github.com/zyairelai/linkedin-skill-assessments-quizzes) - Yeah I am so free and I contribute to that as well
 
 ## :~# My BB Toolkit
-- [BlackRS](https://github.com/zyairelai/black-rs) - Given you a large IPs.txt and not sure how to approach? Just target 1 port!
-- [SubSubSui](https://github.com/zyairelai/subsubsui) - Combining 3 subdomain enumeration tool and eliminate false positive live host
-- [Fuzz555](https://github.com/zyairelai/fuzz555) - Automate Logger++ JSON requests and futher integrate with [Nuclei Fuzzing Template](https://github.com/projectdiscovery/fuzzing-templates)
-- [NucleiSpider](https://github.com/zyairelai/nuclei-spider) - Subdomain Enumeration + Parameter fuzzing for outdated wildcard scope domain for BB quick win
+- [BlackRS](https://github.com/zyairelai/black-rs) - Identifying IP and ports to target
+- [Fuzz555](https://github.com/zyairelai/fuzz555) - Logger++ JSON requests processing for Nuclei Fuzzing Compatible
+- [SubSubSui](https://github.com/zyairelai/subsubsui) - Subdomain enumeration tool 3 in 1
+- [NucleiSpider](https://github.com/zyairelai/nuclei-spider) - Wayback wildcard scope fuzzing
 - [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy general PoC template 
 
 <details>
