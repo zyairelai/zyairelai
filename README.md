@@ -32,6 +32,7 @@
 - [Futures Hero](https://github.com/zyairelai/futures-hero) - High risk aggressive scalping bot on Binance
 - [Kali Rice](https://github.com/zyairelai/kali-rice) - Auto configuration script for hunting OSGAY certifications!
 - [Unix Rice](https://github.com/zyairelai/unix-rice) - r/UnixPorn Collections. I use Mint btw
+- [Remove Anti Adblock YouTube](https://github.com/zyairelai/Remove-anti-adblock-YouTube) - Removes the anti-adblock popup on YouTube
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon) - Yes I do commit to [Tib3rius](https://github.com/Tib3rius)'s AutoRecon also hehe uwu
 - [LinkedIn Skill Assessment Quizzes](https://github.com/zyairelai/linkedin-skill-assessments-quizzes) - Yeah I am so free and I contribute to that as well
 
