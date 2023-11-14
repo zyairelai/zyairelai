@@ -59,7 +59,6 @@
 
 - https://app.intigriti.com/profile/zyaire
 - https://hackerone.com/zyaire  
-- https://bugcrowd.com/zyaire  
   
 <h1 align="center">
   <samp>
