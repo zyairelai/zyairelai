@@ -34,6 +34,7 @@
 - [Unix Rice](https://github.com/zyairelai/unix-rice) - r/UnixPorn Collections. I use Mint btw
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon) - Yes I do commit to [Tib3rius](https://github.com/Tib3rius)'s AutoRecon also hehe uwu
 - [ARL资产侦察灯塔](https://github.com/zyairelai/ARL) - China's Scanner? Why not?
+- [SecLists](https://github.com/danielmiessler/SecLists) - Always contribute back to the community!
 - [Remove Anti Adblock YouTube](https://github.com/zyairelai/Remove-anti-adblock-YouTube) - Removes the anti-adblock popup on YouTube
 - [LinkedIn Skill Assessment Quizzes](https://github.com/zyairelai/linkedin-skill-assessments-quizzes) - Yeah I am so free and I contribute to that as well
 
