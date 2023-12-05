@@ -27,7 +27,7 @@
 - 🔮 Besides **hecking**, I hop around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
 - 👽 You can read my silly thoughts on https://medium.com/@louiszhenyean 
 
-## :~# Projects Committed
+## :~# Committed Projects
 - [Buy Low Sell High](https://github.com/zyairelai/buy-low-sell-high) - Low Risk Spot Trading Bot on Binance
 - [Futures Hero](https://github.com/zyairelai/futures-hero) - High risk aggressive scalping bot on Binance
 - [Kali Rice](https://github.com/zyairelai/kali-rice) - Auto configuration script for hunting OSGAY certifications!
