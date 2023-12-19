@@ -43,7 +43,7 @@
 - [Fuzz555](https://github.com/zyairelai/fuzz555) - Logger++ JSON requests processing for Nuclei Fuzzing Compatible
 - [SubSubSui](https://github.com/zyairelai/subsubsui) - Subdomain enumeration tool 3 in 1
 - [NucleiSpider](https://github.com/zyairelai/nuclei-spider) - Wayback wildcard scope fuzzing
-- [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy general PoC template 
+- [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy generic PoC template 
 
 <details>
   <summary  align="center">
