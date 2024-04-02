@@ -25,7 +25,7 @@
 ## :~# whoami
 - 👨‍💻 I am currently pursuing [Offensive Security PEN-300 Course](https://www.offsec.com/courses/pen-300/)
 - 🔮 Besides **hecking**, I hop around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
-- 👽 You can read my silly thoughts on https://medium.com/@louiszhenyean 
+- 👽 Overworked and Underpaid 🤘🏻😭
 
 ## :~# Committed Projects
 - [Buy Low Sell High](https://github.com/zyairelai/buy-low-sell-high) - Low Risk Spot Trading Bot on Binance
