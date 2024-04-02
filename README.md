@@ -20,7 +20,7 @@
 </p>
 
 ## :~# whoami
-- 👨‍💻 A **Certified n00b hecker** with [OSCP](https://www.credential.net/05bad733-22a5-43e8-ba50-6b7b15bd726d), [OSWE](https://www.credential.net/c3839081-e2ca-4049-a59e-b73432bd2c65), [OSWP](https://www.credential.net/158caa78-0c14-4e95-be3f-e1bd1f14e53c) 
+- 👨‍💻 A **Certified N00b Hecker** with [OSCP](https://www.credential.net/05bad733-22a5-43e8-ba50-6b7b15bd726d), [OSWE](https://www.credential.net/c3839081-e2ca-4049-a59e-b73432bd2c65), [OSWP](https://www.credential.net/158caa78-0c14-4e95-be3f-e1bd1f14e53c) 
 - 🔮 Besides **hecking**, I hop around different Linux Distros because I love [r/unixporn](https://www.reddit.com/r/unixporn/)
 - 👽 Overworked and Underpaid 🤘🏻😭
 
