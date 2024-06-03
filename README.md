@@ -35,12 +35,9 @@
 - [Remove Anti Adblock YouTube](https://github.com/zyairelai/Remove-anti-adblock-YouTube) - Removes the anti-adblock popup on YouTube
 - [LinkedIn Skill Assessment Quizzes](https://github.com/zyairelai/linkedin-skill-assessments-quizzes) - Yeah I am so free and I contribute to that as well
 
-## :~# My BB Toolkit
+## :~# Personal Toolkit
 - [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy generic PoC template 
-- [BlackRS](https://github.com/zyairelai/black-rs) - Identifying IP and ports to target
-- [Fuzz555](https://github.com/zyairelai/fuzz555) - Logger++ JSON requests processing for Nuclei Fuzzing Compatible
 - [SubSubSui](https://github.com/zyairelai/subsubsui) - Subdomain enumeration tool 3 in 1
-- [NucleiSpider](https://github.com/zyairelai/nuclei-spider) - Wayback wildcard scope fuzzing
 
 <details>
   <summary  align="center">
