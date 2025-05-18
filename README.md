@@ -57,7 +57,13 @@
 | [PwnTillDawn](https://online.pwntilldawn.com/Achievements/3175) | [**WRITEUPS**](https://zyaire.notion.site/PwnTillDawn-ad8f085a4a914bee9c62779d94896698) | 💚 12 <br> 🧡 7 <br> ❤️ 2 |
   
 </div>
-  
+
+  <details>
+  <summary  align="center">
+    <samp align="center">
+      &#9776; Click Here to View More
+    </samp></summary> 
+    
 <h1 align="center">
   <samp>
     <b>
@@ -66,8 +72,4 @@
   </samp>
 </h1>
 
-<details>
-  <summary  align="center">
-    <samp align="center">
-      &#9776; Click Here to View More
-    </samp></summary> 
+
