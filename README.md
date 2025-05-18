@@ -38,23 +38,6 @@
 ## :~# Personal Toolkit
 - [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy generic PoC template 
 - [SubSubSui](https://github.com/zyairelai/subsubsui) - Subdomain enumeration tool 3 in 1
-
-<details>
-  <summary  align="center">
-    <samp align="center">
-      &#9776; Click Here to View More
-    </samp></summary> 
-
-<h1 align="center">
-  <samp>
-    <b>
-       🐞 bug-bounties 🐛
-    </b>
-  </samp>
-</h1>
-
-- https://app.intigriti.com/profile/zyaire
-- https://hackerone.com/zyaire  
   
 <h1 align="center">
   <samp>
@@ -82,3 +65,9 @@
     </b>
   </samp>
 </h1>
+
+<details>
+  <summary  align="center">
+    <samp align="center">
+      &#9776; Click Here to View More
+    </samp></summary> 
