@@ -35,8 +35,8 @@
 - [LinkedIn Skill Assessment Quizzes](https://github.com/zyairelai/linkedin-skill-assessments-quizzes) - Yeah I am so free and I contribute to that as well
 
 ## :~# Personal Toolkit
-- [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy generic PoC template 
 - [SubSubSui](https://github.com/zyairelai/subsubsui) - Subdomain enumeration tool 3 in 1
+- [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy generic PoC template 
   
 <h1 align="center">
   <samp>
