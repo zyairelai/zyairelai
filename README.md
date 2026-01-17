@@ -24,41 +24,16 @@
 - 🔮 Besides **hecking**, I do **Alchemical Programming** + **Metaphysical Reading** 🌊🌱🔥🧬🧠💼
 - 👽 Overworked and Underpaid 🤘🏻😭
 
-## :~# Committed Projects
-- [Buy Low Sell High](https://github.com/zyairelai/buy-low-sell-high) - Low Risk Spot Trading Bot on Binance
-- [Futures Hero](https://github.com/zyairelai/futures-hero) - High risk aggressive scalping bot on Binance
-- [Kali Rice](https://github.com/zyairelai/kali-rice) - Auto configuration script for hunting OSGAY certifications!
-- [Unix Rice](https://github.com/zyairelai/unix-rice) - r/UnixPorn Collections. I use Mint btw
-- [AutoRecon](https://github.com/Tib3rius/AutoRecon) - Yes I do commit to [Tib3rius](https://github.com/Tib3rius)'s AutoRecon also hehe uwu
-- [ARL资产侦察灯塔](https://github.com/zyairelai/ARL) - China's Scanner? Why not?
-- [SecLists](https://github.com/danielmiessler/SecLists) - Always contribute back to the community!
-- [LinkedIn Skill Assessment Quizzes](https://github.com/zyairelai/linkedin-skill-assessments-quizzes) - Yeah I am so free and I contribute to that as well
-
-## :~# Personal Toolkit
-- [SubSubSui](https://github.com/zyairelai/subsubsui) - Subdomain enumeration tool 3 in 1
-- [攞你命3000](https://github.com/zyairelai/take-your-life-3000) - Random payloads + Some juicy generic PoC template 
-
-  <details>
-  <summary  align="center">
-    <samp align="center">
-      &#9776; Click Here to View More
-    </samp></summary> 
+## :~# 李白上身
     
 <h1 align="center">
   <samp>
     <b>
-      🫵🏻🔞🍆💦😫💖✨ <br>
-      深寒静水是为渊，灵木生火是为焰。<br>
-      渊焰相逢混沌开，重定因果逆苍天。<br>
-      诸君若以常理测，盲人扪象各纷然。<br>
-      须知命外自有命，他在规则诞生前。<br>
       心逍遥，行無忌；既潇洒，亦快意。<br>
       身如壬水向东流，志似天风不羁驰；<br>
       纵有世事若浪起，独行江山之外怡。<br>
       问世间何物最贵？唯逍遥。<br>
-      🌊🌱🔥🪨💰 <br>
+      🌊🌱🔥🌍💰 <br>
     </b>
   </samp>
 </h1>
-
-
