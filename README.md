@@ -26,17 +26,19 @@
 
 <br/>
 
+## :~# Explore the Universe
+
 <div align="center">
   <table style="border: none; border-collapse: collapse;">
     <tr style="border: none;">
       <td align="center" style="border: none; padding: 0 20px;">
         <a href="https://zyairelai.github.io/bazi/" target="_blank">
-          <img src="https://img.shields.io/badge/🔮_BAZI-八字命理-A855F7?style=for-the-badge&logoColor=white" alt="Bazi">
+          <img height="88" src="https://img.shields.io/badge/🔮_BAZI-八字命理-A855F7?style=for-the-badge&logoColor=white" alt="Bazi">
         </a>
       </td>
       <td align="center" style="border: none; padding: 0 20px;">
         <a href="https://zyairelai.github.io/qimen/" target="_blank">
-          <img src="https://img.shields.io/badge/🎭_QIMEN-奇门遁甲-3B82F6?style=for-the-badge&logoColor=white" alt="Qimen">
+          <img height="88" src="https://img.shields.io/badge/🎭_QIMEN-奇门遁甲-3B82F6?style=for-the-badge&logoColor=white" alt="Qimen">
         </a>
       </td>
     </tr>
@@ -45,12 +47,11 @@
 
 <br/>
 
-## :~# 李白上身
+## :~# 心逍遥，行無忌；既潇洒，亦快意。
     
 <h1 align="center">
   <samp>
     <b>
-      心逍遥，行無忌；既潇洒，亦快意。<br>
       身如壬水向东流，志似天风不羁驰；<br>
       纵有世事若浪起，独行江山之外怡。<br>
       问世间何物最贵？唯逍遥。<br>
